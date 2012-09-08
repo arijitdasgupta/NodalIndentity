@@ -41,4 +41,4 @@ TODO
 
 Feel free to fork and hack the code. It's not well commented yet.
 
-A detailed blog post will be available soon.
+Blog post: http://obtuze.wordpress.com/2012/09/08/nodal-identity/
