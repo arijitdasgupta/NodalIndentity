@@ -17,13 +17,15 @@ Gryffindor
 
 In the CSV data format, each line corresponds to a node. And nodes can have arbitrary depths, which will be reflected in the final rendition. Such as, one can have single image for Gyrffindor house, and also have Gryffindor Seniors as another different image with similarities. And each node will have an unique image.
 
-The Python program should be ran first followed by the Processing Sketch.
+The Python program should be ran first followed by the Processing Sketch in the ```ID_plotter/``` folder.
 
 The python program ```parser.py``` will generate a few files. In the ```ID_plotter``` folder there will ```data.txt``` and ```params.txt```. Both will be used by the Processing sketch to generate the image later in a ```Images/``` folder. There will be another file generated, named ```names.txt```. This file will contain the same information as the data file. The line numbers of this file will correspond to the ```image*.png``` in the ```/Images``` folder.
 
 Instructions
 ------------
 The Python program asks for the data file filename. One can simply press ENTER and let the sample dataset work. There is also Python program to generate a sample data-set with all possible combinations. Then one has to run the Processing sketch.
+
+Test data for a single run is included. For generation of the images, one has to the Processing Sketch in the ```ID_plotter/``` folder.
 
 Requirements
 ------------
