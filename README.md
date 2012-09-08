@@ -30,6 +30,7 @@ Test data for a single run is included. For generation of the images, one has to
 Requirements
 ------------
 Python 2.7.1 or higher
+
 Processing 2.0b1 or higher (One can simply change a single line (Line 39) in the Processing sketch to make in compatible with Processing 1.5). The change is to remove the last argument from the ```rect()``` function.
 
 TODO
