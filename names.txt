@@ -1,0 +1,496 @@
+Gryffindor 
+Slytherin 
+Hufflepuff 
+Ravenclaw 
+Gryffindor Jounin 
+Gryffindor Chounin 
+Gryffindor Genin 
+Slytherin Jounin 
+Slytherin Chounin 
+Slytherin Genin 
+Hufflepuff Jounin 
+Hufflepuff Chounin 
+Hufflepuff Genin 
+Ravenclaw Jounin 
+Ravenclaw Chounin 
+Ravenclaw Genin 
+Gryffindor Jounin Earth 
+Gryffindor Jounin Water 
+Gryffindor Jounin Air 
+Gryffindor Jounin Fire 
+Gryffindor Chounin Earth 
+Gryffindor Chounin Water 
+Gryffindor Chounin Air 
+Gryffindor Chounin Fire 
+Gryffindor Genin Earth 
+Gryffindor Genin Water 
+Gryffindor Genin Air 
+Gryffindor Genin Fire 
+Slytherin Jounin Earth 
+Slytherin Jounin Water 
+Slytherin Jounin Air 
+Slytherin Jounin Fire 
+Slytherin Chounin Earth 
+Slytherin Chounin Water 
+Slytherin Chounin Air 
+Slytherin Chounin Fire 
+Slytherin Genin Earth 
+Slytherin Genin Water 
+Slytherin Genin Air 
+Slytherin Genin Fire 
+Hufflepuff Jounin Earth 
+Hufflepuff Jounin Water 
+Hufflepuff Jounin Air 
+Hufflepuff Jounin Fire 
+Hufflepuff Chounin Earth 
+Hufflepuff Chounin Water 
+Hufflepuff Chounin Air 
+Hufflepuff Chounin Fire 
+Hufflepuff Genin Earth 
+Hufflepuff Genin Water 
+Hufflepuff Genin Air 
+Hufflepuff Genin Fire 
+Ravenclaw Jounin Earth 
+Ravenclaw Jounin Water 
+Ravenclaw Jounin Air 
+Ravenclaw Jounin Fire 
+Ravenclaw Chounin Earth 
+Ravenclaw Chounin Water 
+Ravenclaw Chounin Air 
+Ravenclaw Chounin Fire 
+Ravenclaw Genin Earth 
+Ravenclaw Genin Water 
+Ravenclaw Genin Air 
+Ravenclaw Genin Fire 
+Gryffindor Jounin Earth Blade 
+Gryffindor Jounin Earth Gun 
+Gryffindor Jounin Earth Liquid Sword 
+Gryffindor Jounin Water Blade 
+Gryffindor Jounin Water Gun 
+Gryffindor Jounin Water Liquid Sword 
+Gryffindor Jounin Air Blade 
+Gryffindor Jounin Air Gun 
+Gryffindor Jounin Air Liquid Sword 
+Gryffindor Jounin Fire Blade 
+Gryffindor Jounin Fire Gun 
+Gryffindor Jounin Fire Liquid Sword 
+Gryffindor Chounin Earth Blade 
+Gryffindor Chounin Earth Gun 
+Gryffindor Chounin Earth Liquid Sword 
+Gryffindor Chounin Water Blade 
+Gryffindor Chounin Water Gun 
+Gryffindor Chounin Water Liquid Sword 
+Gryffindor Chounin Air Blade 
+Gryffindor Chounin Air Gun 
+Gryffindor Chounin Air Liquid Sword 
+Gryffindor Chounin Fire Blade 
+Gryffindor Chounin Fire Gun 
+Gryffindor Chounin Fire Liquid Sword 
+Gryffindor Genin Earth Blade 
+Gryffindor Genin Earth Gun 
+Gryffindor Genin Earth Liquid Sword 
+Gryffindor Genin Water Blade 
+Gryffindor Genin Water Gun 
+Gryffindor Genin Water Liquid Sword 
+Gryffindor Genin Air Blade 
+Gryffindor Genin Air Gun 
+Gryffindor Genin Air Liquid Sword 
+Gryffindor Genin Fire Blade 
+Gryffindor Genin Fire Gun 
+Gryffindor Genin Fire Liquid Sword 
+Slytherin Jounin Earth Blade 
+Slytherin Jounin Earth Gun 
+Slytherin Jounin Earth Liquid Sword 
+Slytherin Jounin Water Blade 
+Slytherin Jounin Water Gun 
+Slytherin Jounin Water Liquid Sword 
+Slytherin Jounin Air Blade 
+Slytherin Jounin Air Gun 
+Slytherin Jounin Air Liquid Sword 
+Slytherin Jounin Fire Blade 
+Slytherin Jounin Fire Gun 
+Slytherin Jounin Fire Liquid Sword 
+Slytherin Chounin Earth Blade 
+Slytherin Chounin Earth Gun 
+Slytherin Chounin Earth Liquid Sword 
+Slytherin Chounin Water Blade 
+Slytherin Chounin Water Gun 
+Slytherin Chounin Water Liquid Sword 
+Slytherin Chounin Air Blade 
+Slytherin Chounin Air Gun 
+Slytherin Chounin Air Liquid Sword 
+Slytherin Chounin Fire Blade 
+Slytherin Chounin Fire Gun 
+Slytherin Chounin Fire Liquid Sword 
+Slytherin Genin Earth Blade 
+Slytherin Genin Earth Gun 
+Slytherin Genin Earth Liquid Sword 
+Slytherin Genin Water Blade 
+Slytherin Genin Water Gun 
+Slytherin Genin Water Liquid Sword 
+Slytherin Genin Air Blade 
+Slytherin Genin Air Gun 
+Slytherin Genin Air Liquid Sword 
+Slytherin Genin Fire Blade 
+Slytherin Genin Fire Gun 
+Slytherin Genin Fire Liquid Sword 
+Hufflepuff Jounin Earth Blade 
+Hufflepuff Jounin Earth Gun 
+Hufflepuff Jounin Earth Liquid Sword 
+Hufflepuff Jounin Water Blade 
+Hufflepuff Jounin Water Gun 
+Hufflepuff Jounin Water Liquid Sword 
+Hufflepuff Jounin Air Blade 
+Hufflepuff Jounin Air Gun 
+Hufflepuff Jounin Air Liquid Sword 
+Hufflepuff Jounin Fire Blade 
+Hufflepuff Jounin Fire Gun 
+Hufflepuff Jounin Fire Liquid Sword 
+Hufflepuff Chounin Earth Blade 
+Hufflepuff Chounin Earth Gun 
+Hufflepuff Chounin Earth Liquid Sword 
+Hufflepuff Chounin Water Blade 
+Hufflepuff Chounin Water Gun 
+Hufflepuff Chounin Water Liquid Sword 
+Hufflepuff Chounin Air Blade 
+Hufflepuff Chounin Air Gun 
+Hufflepuff Chounin Air Liquid Sword 
+Hufflepuff Chounin Fire Blade 
+Hufflepuff Chounin Fire Gun 
+Hufflepuff Chounin Fire Liquid Sword 
+Hufflepuff Genin Earth Blade 
+Hufflepuff Genin Earth Gun 
+Hufflepuff Genin Earth Liquid Sword 
+Hufflepuff Genin Water Blade 
+Hufflepuff Genin Water Gun 
+Hufflepuff Genin Water Liquid Sword 
+Hufflepuff Genin Air Blade 
+Hufflepuff Genin Air Gun 
+Hufflepuff Genin Air Liquid Sword 
+Hufflepuff Genin Fire Blade 
+Hufflepuff Genin Fire Gun 
+Hufflepuff Genin Fire Liquid Sword 
+Ravenclaw Jounin Earth Blade 
+Ravenclaw Jounin Earth Gun 
+Ravenclaw Jounin Earth Liquid Sword 
+Ravenclaw Jounin Water Blade 
+Ravenclaw Jounin Water Gun 
+Ravenclaw Jounin Water Liquid Sword 
+Ravenclaw Jounin Air Blade 
+Ravenclaw Jounin Air Gun 
+Ravenclaw Jounin Air Liquid Sword 
+Ravenclaw Jounin Fire Blade 
+Ravenclaw Jounin Fire Gun 
+Ravenclaw Jounin Fire Liquid Sword 
+Ravenclaw Chounin Earth Blade 
+Ravenclaw Chounin Earth Gun 
+Ravenclaw Chounin Earth Liquid Sword 
+Ravenclaw Chounin Water Blade 
+Ravenclaw Chounin Water Gun 
+Ravenclaw Chounin Water Liquid Sword 
+Ravenclaw Chounin Air Blade 
+Ravenclaw Chounin Air Gun 
+Ravenclaw Chounin Air Liquid Sword 
+Ravenclaw Chounin Fire Blade 
+Ravenclaw Chounin Fire Gun 
+Ravenclaw Chounin Fire Liquid Sword 
+Ravenclaw Genin Earth Blade 
+Ravenclaw Genin Earth Gun 
+Ravenclaw Genin Earth Liquid Sword 
+Ravenclaw Genin Water Blade 
+Ravenclaw Genin Water Gun 
+Ravenclaw Genin Water Liquid Sword 
+Ravenclaw Genin Air Blade 
+Ravenclaw Genin Air Gun 
+Ravenclaw Genin Air Liquid Sword 
+Ravenclaw Genin Fire Blade 
+Ravenclaw Genin Fire Gun 
+Ravenclaw Genin Fire Liquid Sword 
+Gryffindor Jounin Earth Blade Power User 
+Gryffindor Jounin Earth Blade Strength User 
+Gryffindor Jounin Earth Gun Power User 
+Gryffindor Jounin Earth Gun Strength User 
+Gryffindor Jounin Earth Liquid Sword Power User 
+Gryffindor Jounin Earth Liquid Sword Strength User 
+Gryffindor Jounin Water Blade Power User 
+Gryffindor Jounin Water Blade Strength User 
+Gryffindor Jounin Water Gun Power User 
+Gryffindor Jounin Water Gun Strength User 
+Gryffindor Jounin Water Liquid Sword Power User 
+Gryffindor Jounin Water Liquid Sword Strength User 
+Gryffindor Jounin Air Blade Power User 
+Gryffindor Jounin Air Blade Strength User 
+Gryffindor Jounin Air Gun Power User 
+Gryffindor Jounin Air Gun Strength User 
+Gryffindor Jounin Air Liquid Sword Power User 
+Gryffindor Jounin Air Liquid Sword Strength User 
+Gryffindor Jounin Fire Blade Power User 
+Gryffindor Jounin Fire Blade Strength User 
+Gryffindor Jounin Fire Gun Power User 
+Gryffindor Jounin Fire Gun Strength User 
+Gryffindor Jounin Fire Liquid Sword Power User 
+Gryffindor Jounin Fire Liquid Sword Strength User 
+Gryffindor Chounin Earth Blade Power User 
+Gryffindor Chounin Earth Blade Strength User 
+Gryffindor Chounin Earth Gun Power User 
+Gryffindor Chounin Earth Gun Strength User 
+Gryffindor Chounin Earth Liquid Sword Power User 
+Gryffindor Chounin Earth Liquid Sword Strength User 
+Gryffindor Chounin Water Blade Power User 
+Gryffindor Chounin Water Blade Strength User 
+Gryffindor Chounin Water Gun Power User 
+Gryffindor Chounin Water Gun Strength User 
+Gryffindor Chounin Water Liquid Sword Power User 
+Gryffindor Chounin Water Liquid Sword Strength User 
+Gryffindor Chounin Air Blade Power User 
+Gryffindor Chounin Air Blade Strength User 
+Gryffindor Chounin Air Gun Power User 
+Gryffindor Chounin Air Gun Strength User 
+Gryffindor Chounin Air Liquid Sword Power User 
+Gryffindor Chounin Air Liquid Sword Strength User 
+Gryffindor Chounin Fire Blade Power User 
+Gryffindor Chounin Fire Blade Strength User 
+Gryffindor Chounin Fire Gun Power User 
+Gryffindor Chounin Fire Gun Strength User 
+Gryffindor Chounin Fire Liquid Sword Power User 
+Gryffindor Chounin Fire Liquid Sword Strength User 
+Gryffindor Genin Earth Blade Power User 
+Gryffindor Genin Earth Blade Strength User 
+Gryffindor Genin Earth Gun Power User 
+Gryffindor Genin Earth Gun Strength User 
+Gryffindor Genin Earth Liquid Sword Power User 
+Gryffindor Genin Earth Liquid Sword Strength User 
+Gryffindor Genin Water Blade Power User 
+Gryffindor Genin Water Blade Strength User 
+Gryffindor Genin Water Gun Power User 
+Gryffindor Genin Water Gun Strength User 
+Gryffindor Genin Water Liquid Sword Power User 
+Gryffindor Genin Water Liquid Sword Strength User 
+Gryffindor Genin Air Blade Power User 
+Gryffindor Genin Air Blade Strength User 
+Gryffindor Genin Air Gun Power User 
+Gryffindor Genin Air Gun Strength User 
+Gryffindor Genin Air Liquid Sword Power User 
+Gryffindor Genin Air Liquid Sword Strength User 
+Gryffindor Genin Fire Blade Power User 
+Gryffindor Genin Fire Blade Strength User 
+Gryffindor Genin Fire Gun Power User 
+Gryffindor Genin Fire Gun Strength User 
+Gryffindor Genin Fire Liquid Sword Power User 
+Gryffindor Genin Fire Liquid Sword Strength User 
+Slytherin Jounin Earth Blade Power User 
+Slytherin Jounin Earth Blade Strength User 
+Slytherin Jounin Earth Gun Power User 
+Slytherin Jounin Earth Gun Strength User 
+Slytherin Jounin Earth Liquid Sword Power User 
+Slytherin Jounin Earth Liquid Sword Strength User 
+Slytherin Jounin Water Blade Power User 
+Slytherin Jounin Water Blade Strength User 
+Slytherin Jounin Water Gun Power User 
+Slytherin Jounin Water Gun Strength User 
+Slytherin Jounin Water Liquid Sword Power User 
+Slytherin Jounin Water Liquid Sword Strength User 
+Slytherin Jounin Air Blade Power User 
+Slytherin Jounin Air Blade Strength User 
+Slytherin Jounin Air Gun Power User 
+Slytherin Jounin Air Gun Strength User 
+Slytherin Jounin Air Liquid Sword Power User 
+Slytherin Jounin Air Liquid Sword Strength User 
+Slytherin Jounin Fire Blade Power User 
+Slytherin Jounin Fire Blade Strength User 
+Slytherin Jounin Fire Gun Power User 
+Slytherin Jounin Fire Gun Strength User 
+Slytherin Jounin Fire Liquid Sword Power User 
+Slytherin Jounin Fire Liquid Sword Strength User 
+Slytherin Chounin Earth Blade Power User 
+Slytherin Chounin Earth Blade Strength User 
+Slytherin Chounin Earth Gun Power User 
+Slytherin Chounin Earth Gun Strength User 
+Slytherin Chounin Earth Liquid Sword Power User 
+Slytherin Chounin Earth Liquid Sword Strength User 
+Slytherin Chounin Water Blade Power User 
+Slytherin Chounin Water Blade Strength User 
+Slytherin Chounin Water Gun Power User 
+Slytherin Chounin Water Gun Strength User 
+Slytherin Chounin Water Liquid Sword Power User 
+Slytherin Chounin Water Liquid Sword Strength User 
+Slytherin Chounin Air Blade Power User 
+Slytherin Chounin Air Blade Strength User 
+Slytherin Chounin Air Gun Power User 
+Slytherin Chounin Air Gun Strength User 
+Slytherin Chounin Air Liquid Sword Power User 
+Slytherin Chounin Air Liquid Sword Strength User 
+Slytherin Chounin Fire Blade Power User 
+Slytherin Chounin Fire Blade Strength User 
+Slytherin Chounin Fire Gun Power User 
+Slytherin Chounin Fire Gun Strength User 
+Slytherin Chounin Fire Liquid Sword Power User 
+Slytherin Chounin Fire Liquid Sword Strength User 
+Slytherin Genin Earth Blade Power User 
+Slytherin Genin Earth Blade Strength User 
+Slytherin Genin Earth Gun Power User 
+Slytherin Genin Earth Gun Strength User 
+Slytherin Genin Earth Liquid Sword Power User 
+Slytherin Genin Earth Liquid Sword Strength User 
+Slytherin Genin Water Blade Power User 
+Slytherin Genin Water Blade Strength User 
+Slytherin Genin Water Gun Power User 
+Slytherin Genin Water Gun Strength User 
+Slytherin Genin Water Liquid Sword Power User 
+Slytherin Genin Water Liquid Sword Strength User 
+Slytherin Genin Air Blade Power User 
+Slytherin Genin Air Blade Strength User 
+Slytherin Genin Air Gun Power User 
+Slytherin Genin Air Gun Strength User 
+Slytherin Genin Air Liquid Sword Power User 
+Slytherin Genin Air Liquid Sword Strength User 
+Slytherin Genin Fire Blade Power User 
+Slytherin Genin Fire Blade Strength User 
+Slytherin Genin Fire Gun Power User 
+Slytherin Genin Fire Gun Strength User 
+Slytherin Genin Fire Liquid Sword Power User 
+Slytherin Genin Fire Liquid Sword Strength User 
+Hufflepuff Jounin Earth Blade Power User 
+Hufflepuff Jounin Earth Blade Strength User 
+Hufflepuff Jounin Earth Gun Power User 
+Hufflepuff Jounin Earth Gun Strength User 
+Hufflepuff Jounin Earth Liquid Sword Power User 
+Hufflepuff Jounin Earth Liquid Sword Strength User 
+Hufflepuff Jounin Water Blade Power User 
+Hufflepuff Jounin Water Blade Strength User 
+Hufflepuff Jounin Water Gun Power User 
+Hufflepuff Jounin Water Gun Strength User 
+Hufflepuff Jounin Water Liquid Sword Power User 
+Hufflepuff Jounin Water Liquid Sword Strength User 
+Hufflepuff Jounin Air Blade Power User 
+Hufflepuff Jounin Air Blade Strength User 
+Hufflepuff Jounin Air Gun Power User 
+Hufflepuff Jounin Air Gun Strength User 
+Hufflepuff Jounin Air Liquid Sword Power User 
+Hufflepuff Jounin Air Liquid Sword Strength User 
+Hufflepuff Jounin Fire Blade Power User 
+Hufflepuff Jounin Fire Blade Strength User 
+Hufflepuff Jounin Fire Gun Power User 
+Hufflepuff Jounin Fire Gun Strength User 
+Hufflepuff Jounin Fire Liquid Sword Power User 
+Hufflepuff Jounin Fire Liquid Sword Strength User 
+Hufflepuff Chounin Earth Blade Power User 
+Hufflepuff Chounin Earth Blade Strength User 
+Hufflepuff Chounin Earth Gun Power User 
+Hufflepuff Chounin Earth Gun Strength User 
+Hufflepuff Chounin Earth Liquid Sword Power User 
+Hufflepuff Chounin Earth Liquid Sword Strength User 
+Hufflepuff Chounin Water Blade Power User 
+Hufflepuff Chounin Water Blade Strength User 
+Hufflepuff Chounin Water Gun Power User 
+Hufflepuff Chounin Water Gun Strength User 
+Hufflepuff Chounin Water Liquid Sword Power User 
+Hufflepuff Chounin Water Liquid Sword Strength User 
+Hufflepuff Chounin Air Blade Power User 
+Hufflepuff Chounin Air Blade Strength User 
+Hufflepuff Chounin Air Gun Power User 
+Hufflepuff Chounin Air Gun Strength User 
+Hufflepuff Chounin Air Liquid Sword Power User 
+Hufflepuff Chounin Air Liquid Sword Strength User 
+Hufflepuff Chounin Fire Blade Power User 
+Hufflepuff Chounin Fire Blade Strength User 
+Hufflepuff Chounin Fire Gun Power User 
+Hufflepuff Chounin Fire Gun Strength User 
+Hufflepuff Chounin Fire Liquid Sword Power User 
+Hufflepuff Chounin Fire Liquid Sword Strength User 
+Hufflepuff Genin Earth Blade Power User 
+Hufflepuff Genin Earth Blade Strength User 
+Hufflepuff Genin Earth Gun Power User 
+Hufflepuff Genin Earth Gun Strength User 
+Hufflepuff Genin Earth Liquid Sword Power User 
+Hufflepuff Genin Earth Liquid Sword Strength User 
+Hufflepuff Genin Water Blade Power User 
+Hufflepuff Genin Water Blade Strength User 
+Hufflepuff Genin Water Gun Power User 
+Hufflepuff Genin Water Gun Strength User 
+Hufflepuff Genin Water Liquid Sword Power User 
+Hufflepuff Genin Water Liquid Sword Strength User 
+Hufflepuff Genin Air Blade Power User 
+Hufflepuff Genin Air Blade Strength User 
+Hufflepuff Genin Air Gun Power User 
+Hufflepuff Genin Air Gun Strength User 
+Hufflepuff Genin Air Liquid Sword Power User 
+Hufflepuff Genin Air Liquid Sword Strength User 
+Hufflepuff Genin Fire Blade Power User 
+Hufflepuff Genin Fire Blade Strength User 
+Hufflepuff Genin Fire Gun Power User 
+Hufflepuff Genin Fire Gun Strength User 
+Hufflepuff Genin Fire Liquid Sword Power User 
+Hufflepuff Genin Fire Liquid Sword Strength User 
+Ravenclaw Jounin Earth Blade Power User 
+Ravenclaw Jounin Earth Blade Strength User 
+Ravenclaw Jounin Earth Gun Power User 
+Ravenclaw Jounin Earth Gun Strength User 
+Ravenclaw Jounin Earth Liquid Sword Power User 
+Ravenclaw Jounin Earth Liquid Sword Strength User 
+Ravenclaw Jounin Water Blade Power User 
+Ravenclaw Jounin Water Blade Strength User 
+Ravenclaw Jounin Water Gun Power User 
+Ravenclaw Jounin Water Gun Strength User 
+Ravenclaw Jounin Water Liquid Sword Power User 
+Ravenclaw Jounin Water Liquid Sword Strength User 
+Ravenclaw Jounin Air Blade Power User 
+Ravenclaw Jounin Air Blade Strength User 
+Ravenclaw Jounin Air Gun Power User 
+Ravenclaw Jounin Air Gun Strength User 
+Ravenclaw Jounin Air Liquid Sword Power User 
+Ravenclaw Jounin Air Liquid Sword Strength User 
+Ravenclaw Jounin Fire Blade Power User 
+Ravenclaw Jounin Fire Blade Strength User 
+Ravenclaw Jounin Fire Gun Power User 
+Ravenclaw Jounin Fire Gun Strength User 
+Ravenclaw Jounin Fire Liquid Sword Power User 
+Ravenclaw Jounin Fire Liquid Sword Strength User 
+Ravenclaw Chounin Earth Blade Power User 
+Ravenclaw Chounin Earth Blade Strength User 
+Ravenclaw Chounin Earth Gun Power User 
+Ravenclaw Chounin Earth Gun Strength User 
+Ravenclaw Chounin Earth Liquid Sword Power User 
+Ravenclaw Chounin Earth Liquid Sword Strength User 
+Ravenclaw Chounin Water Blade Power User 
+Ravenclaw Chounin Water Blade Strength User 
+Ravenclaw Chounin Water Gun Power User 
+Ravenclaw Chounin Water Gun Strength User 
+Ravenclaw Chounin Water Liquid Sword Power User 
+Ravenclaw Chounin Water Liquid Sword Strength User 
+Ravenclaw Chounin Air Blade Power User 
+Ravenclaw Chounin Air Blade Strength User 
+Ravenclaw Chounin Air Gun Power User 
+Ravenclaw Chounin Air Gun Strength User 
+Ravenclaw Chounin Air Liquid Sword Power User 
+Ravenclaw Chounin Air Liquid Sword Strength User 
+Ravenclaw Chounin Fire Blade Power User 
+Ravenclaw Chounin Fire Blade Strength User 
+Ravenclaw Chounin Fire Gun Power User 
+Ravenclaw Chounin Fire Gun Strength User 
+Ravenclaw Chounin Fire Liquid Sword Power User 
+Ravenclaw Chounin Fire Liquid Sword Strength User 
+Ravenclaw Genin Earth Blade Power User 
+Ravenclaw Genin Earth Blade Strength User 
+Ravenclaw Genin Earth Gun Power User 
+Ravenclaw Genin Earth Gun Strength User 
+Ravenclaw Genin Earth Liquid Sword Power User 
+Ravenclaw Genin Earth Liquid Sword Strength User 
+Ravenclaw Genin Water Blade Power User 
+Ravenclaw Genin Water Blade Strength User 
+Ravenclaw Genin Water Gun Power User 
+Ravenclaw Genin Water Gun Strength User 
+Ravenclaw Genin Water Liquid Sword Power User 
+Ravenclaw Genin Water Liquid Sword Strength User 
+Ravenclaw Genin Air Blade Power User 
+Ravenclaw Genin Air Blade Strength User 
+Ravenclaw Genin Air Gun Power User 
+Ravenclaw Genin Air Gun Strength User 
+Ravenclaw Genin Air Liquid Sword Power User 
+Ravenclaw Genin Air Liquid Sword Strength User 
+Ravenclaw Genin Fire Blade Power User 
+Ravenclaw Genin Fire Blade Strength User 
+Ravenclaw Genin Fire Gun Power User 
+Ravenclaw Genin Fire Gun Strength User 
+Ravenclaw Genin Fire Liquid Sword Power User 
+Ravenclaw Genin Fire Liquid Sword Strength User 
