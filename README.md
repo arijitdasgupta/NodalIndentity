@@ -19,7 +19,7 @@ In the CSV data format, each line corresponds to a node. And nodes can have arbi
 
 The Python program should be ran first followed by the Processing Sketch in the ```ID_plotter/``` folder.
 
-The python program ```parser.py``` will generate a few files. In the ```ID_plotter``` folder there will ```data.txt``` and ```params.txt```. Both will be used by the Processing sketch to generate the image later in a ```Images/``` folder. There will be another file generated, named ```names.txt```. This file will contain the same information as the data file. The line numbers of this file will correspond to the ```image*.png``` in the ```/Images``` folder.
+The python program ```parser.py``` will generate a few files. In the ```ID_plotter``` folder there will ```data.txt```, ```params.txt``` and ```names.txt```. Both will be used by the Processing sketch to generate the image later in a ```Images/``` folder.
 
 Instructions
 ------------
