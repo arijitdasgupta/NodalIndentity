@@ -1,7 +1,7 @@
 NodalIdentity
 =============
 
-Inspired by MIT Media Lab identity this project was created. This software creates visual represtation for each node in a tree-like dataset while being aestheticaly pleasing. Each visual representaiton will carry full information about the node position in the dataset and comparison between nodal representations will reveal inter-relationship sbetween the nodes inside the tree-like dataset.
+Inspired by MIT Media Lab identity this project was created. This software creates visual represtation for each node in a tree-like dataset while being aestheticaly pleasing. Each visual representaiton will carry full information about the node position in the dataset and comparison between nodal representations will reveal inter-relationship sbetween the nodes inside the tree-like dataset. For more reference please refer to http://obtuze.wordpress.com/2012/09/08/nodal-identity/
 
 The program
 -----------
@@ -19,7 +19,7 @@ In the CSV data format, each line corresponds to a node. And nodes can have arbi
 
 The Python program should be ran first followed by the Processing Sketch in the ```ID_plotter/``` folder.
 
-The python program ```parser.py``` will generate a few files. In the ```ID_plotter``` folder there will ```data.txt```, ```params.txt``` and ```names.txt```. Both will be used by the Processing sketch to generate the image later in a ```Images/``` folder.
+The python program ```parser.py``` will generate a few files. In the ```ID_plotter``` folder there will ```data.txt```, ```params.txt``` and ```names.txt```. All will be used by the Processing sketch to generate the image later in a ```Images/``` folder.
 
 Instructions
 ------------
