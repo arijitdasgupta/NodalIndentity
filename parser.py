@@ -73,7 +73,7 @@ ip_file = open('test_data.csv','r')
 csvReader = reader(ip_file)
 
 op_file = open('ID_plotter/data.txt', 'w', True) #The Data that would be fed into the processing system
-op_file2 = open('names.txt', 'w', True) #The Data that is to be used to name reference
+op_file2 = open('ID_plotter/names.txt', 'w', True) #The Data that is to be used to name reference
 for row in csvReader:
 	temp = tree
 	for i in row:

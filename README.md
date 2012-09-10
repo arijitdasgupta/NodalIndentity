@@ -38,7 +38,9 @@ TODO
 1. Add accomodation feature for adding more entities in the future while preserving the old map.
 2. Integrating both programs.
 3. Add browser based GUI.
+4. Filename safe string parsing for filenaming
+5. Better distribution of points
 
-Feel free to fork and hack the code. It's not well commented yet.
+Feel free to fork and hack the code.
 
 Blog post: http://obtuze.wordpress.com/2012/09/08/nodal-identity/
